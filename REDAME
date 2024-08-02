@@ -1,0 +1,1 @@
+nvcc -g *.cu -arch=sm_80
